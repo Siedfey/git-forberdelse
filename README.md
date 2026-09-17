@@ -7,3 +7,16 @@ Prosjektet er laget med Vite og Vanilla.
 ## Forutsetninger
 
 For å kjøre prosjektet må Node.js og pnpm være installert.
+## Installasjon
+
+Installer avhengighetene med:
+
+pnpm install
+
+## Oppstart
+
+Start utviklingsserveren med:
+
+pnpm dev
+
+Åpne deretter nettsiden på adressen som Vite viser i terminalen.
