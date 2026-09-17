@@ -20,3 +20,6 @@ Start utviklingsserveren med:
 pnpm dev
 
 Åpne deretter nettsiden på adressen som Vite viser i terminalen.
+## Om prosjektet
+
+Prosjektet brukes for å øve på Git, GitHub og en enkel utviklingsarbeidsflyt.
